@@ -1,2 +1,2 @@
 # locomotive-projects
-Will be creating different locomotive projects
+// Creating website using locomotive
